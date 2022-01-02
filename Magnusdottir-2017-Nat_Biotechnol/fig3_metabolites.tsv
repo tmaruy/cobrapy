@@ -1,0 +1,99 @@
+Reaction	Reaction name	Category
+EX_glc_D(e)	D-Glucose	Simple sugars
+EX_fru(e)	D-Fructose	Simple sugars
+EX_malt(e)	Maltose	Simple sugars
+EX_man(e)	D-Mannose	Simple sugars
+EX_acgam(e)	N-acetyl-D-glucosamine	Simple sugars
+EX_gam(e)	D-Glucosamine	Simple sugars
+EX_rib_D(e)	D-Ribose	Simple sugars
+EX_sucr(e)	Sucrose	Simple sugars
+EX_gal(e)	D-Galactose	Simple sugars
+EX_lcts(e)	Lactose	Simple sugars
+EX_cellb(e)	Cellobiose	Simple sugars
+EX_tre(e)	Trehalose	Simple sugars
+EX_drib(e)	Deoxyribose	Simple sugars
+EX_xyl_D(e)	D-Xylose	Simple sugars
+EX_arab_L(e)	L-Arabinose	Simple sugars
+EX_mnl(e)	D-Mannitol	Simple sugars
+EX_melib(e)	Melibiose	Simple sugars
+EX_raffin(e)	Raffinose	Simple sugars
+EX_glcn(e)	D-Gluconate	Simple sugars
+EX_salcn(e)	Salicin	Simple sugars
+EX_rmn(e)	L-Rhamnose	Simple sugars
+EX_galur(e)	D-Galacturonate	Simple sugars
+EX_arab_D(e)	D-Arabinose	Simple sugars
+EX_fuc_L(e)	L-Fucose	Simple sugars
+EX_acnam(e)	N-Acetylneuraminate	Simple sugars
+EX_acgal(e)	N-acetylgalactosamine	Simple sugars
+EX_strch1(e)	"Starch, structure 1 (1,6-{7[1,4-Glc], 4[1,4-Glc]})"	Oligo- and polysaccharides
+EX_glygn2(e)	"Glycogen, structure 2 (glycogenin-1,6-{7[1,4-Glc], 4[1,4-Glc]})"	Oligo- and polysaccharides
+EX_glygn4(e)	"Glycogen, structure 4 (glycogenin-1,6-{2[1,4-Glc], [1,4-Glc]})"	Oligo- and polysaccharides
+EX_glygn5(e)	"Glycogen, structure 5 (glycogenin-2[1,4-Glc])"	Oligo- and polysaccharides
+EX_inulin(e)	Inulin	Oligo- and polysaccharides
+EX_amylopect900(e)	Amylopectin	Oligo- and polysaccharides
+EX_amylose300(e)	Amylose	Oligo- and polysaccharides
+EX_pullulan1200(e)	Pullulan	Oligo- and polysaccharides
+EX_pect(e)	Pectins	Oligo- and polysaccharides
+EX_xylan(e)	Xylan	Oligo- and polysaccharides
+EX_core2(e)	Core2 (mucin O-glycan)	Oligo- and polysaccharides
+EX_core3(e)	Core3 (mucin O-glycan)	Oligo- and polysaccharides
+EX_core4(e)	Core4 (mucin O-glycan)	Oligo- and polysaccharides
+EX_core6(e)	Core6 (mucin O-glycan)	Oligo- and polysaccharides
+EX_f1a(e)	F1alpha (mucin O-glycan)	Oligo- and polysaccharides
+EX_gncore1(e)	gncore1 (mucin O-glycan)	Oligo- and polysaccharides
+EX_sT_antigen(e)	sT_antigen (mucin O-glycan)	Oligo- and polysaccharides
+EX_Tn_antigen(e)	Tn_antigen (mucin O-glycan)	Oligo- and polysaccharides
+EX_arabinogal(e)	Arabinogalactan	Oligo- and polysaccharides
+EX_arabinoxyl(e)	Arabinoxylan	Oligo- and polysaccharides
+EX_xyluglc(e)	Xyluglucan	Oligo- and polysaccharides
+EX_dextran40(e)	"Dextran 40, (1,6-alpha-D-Glucan)"	Oligo- and polysaccharides
+EX_hspg(e)	Heparan sulfate proteoglycan	Oligo- and polysaccharides
+EX_arabinan101(e)	Arabinan	Oligo- and polysaccharides
+EX_cellul(e)	Cellulose	Oligo- and polysaccharides
+EX_ha(e)	Hyaluronan	Oligo- and polysaccharides
+EX_pecticgal(e)	Pectic galactan (potato)	Oligo- and polysaccharides
+EX_rhamnogalurI(e)	Rhamnogalacturonan I	Oligo- and polysaccharides
+EX_cspg_a(e)	chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan	Oligo- and polysaccharides
+EX_mannan(e)	Yeast mannan	Oligo- and polysaccharides
+EX_bglc(e)	Beta glucans	Oligo- and polysaccharides
+EX_galmannan(e)	Galactomannan	Oligo- and polysaccharides
+EX_lmn30(e)	Laminarin	Oligo- and polysaccharides
+EX_glcmannan(e)	Glucomannan	Oligo- and polysaccharides
+EX_homogal(e)	Homogalacturonan	Oligo- and polysaccharides
+EX_levan1000(e)	Levan	Oligo- and polysaccharides
+EX_starch1200(e)	Starch (n = 1200)	Oligo- and polysaccharides
+EX_rhamnogalurII(e)	Rhamnogalacturonan II	Oligo- and polysaccharides
+EX_lichn(e)	Lichenin	Oligo- and polysaccharides
+EX_glyc(e)	Glycerol	Others
+EX_succ(e)	Succinate	Others
+EX_cit(e)	Citrate	Others
+EX_fum(e)	Fumarate	Others
+EX_mal_L(e)	L-Malate	Others
+EX_akg(e)	2-Oxoglutarate	Others
+EX_but(e)	Butyrate (n-C4:0)	Others
+EX_ppa(e)	Propionate	Others
+EX_pyr(e)	Pyruvate	Others
+EX_chol(e)	Choline	Others
+EX_pac(e)	Phenylacetate	Others
+EX_oaa(e)	Oxaloacetate	Others
+EX_isobut(e)	Isobutyrate	Others
+EX_isoval(e)	Isovalerate	Others
+EX_oxa(e)	Oxalate	Others
+EX_ac(e)	Acetate	Fermentation products
+EX_succ(e)	Succinate	Fermentation products
+EX_for(e)	Formate	Fermentation products
+EX_lac_L(e)	L-Lactate	Fermentation products
+EX_ppa(e)	Propionate	Fermentation products
+EX_lac_D(e)	D-Lactate	Fermentation products
+EX_etoh(e)	Ethanol	Fermentation products
+EX_h2s(e)	Hydrogen sulfide	Fermentation products
+EX_but(e)	Butyrate (n-C4:0)	Fermentation products
+EX_h2(e)	H2	Fermentation products
+EX_indole(e)	Indole	Fermentation products
+EX_isoval(e)	Isovalerate	Fermentation products
+EX_isobut(e)	Isobutyrate	Fermentation products
+EX_actn_R(e)	 R Acetoin	Fermentation products
+EX_akg(e)	2-Oxoglutarate	Fermentation products
+EX_btoh(e)	Butanol	Fermentation products
+EX_btd_RR(e)	 R R 2 3 Butanediol	Fermentation products
+EX_ch4(e)	Methane	Fermentation products

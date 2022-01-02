@@ -1,0 +1,51 @@
+Metabolite ID	Exchange reaction ID	Metabolite name	Uptake rate
+ala_L	EX_ala_L(e)	L-alanine	1
+arg_L	EX_arg_L(e)	L-arginine	1
+asn_L	EX_asn_L(e)	L-asparagine	1
+asp_L	EX_asp_L(e)	L-aspartate	1
+cys_L	EX_cys_L(e)	L-cysteine	1
+gln_L	EX_gln_L(e)	L-glutamine	1
+glu_L	EX_glu_L(e)	L-glutamate	1
+gly	EX_gly(e)	Glycine	1
+his_L	EX_his_L(e)	L-histidine	1
+ile_L	EX_ile_L(e)	L-isoleucine	1
+leu_L	EX_leu_L(e)	L-leucine	1
+lys_L	EX_lys_L(e)	L-lysine	1
+met_L	EX_met_L(e)	L-methionine	1
+phe_L	EX_phe_L(e)	L-phenylalanine	1
+pro_L	EX_pro_L(e)	L-proline	1
+ser_L	EX_ser_L(e)	L-serine	1
+thr_L	EX_thr_L(e)	L-threonine	1
+trp_L	EX_trp_L(e)	L-tryptophan	1
+tyr_L	EX_tyr_L(e)	L-tyrosine	1
+val_L	EX_val_L(e)	L-valine	1
+glc_D	EX_glc_D(e)	Glucose	4.5
+pyr	EX_pyr(e)	Pyruvate	1
+ca2	EX_ca2(e)	Calcium(2+)	1
+chol	EX_chol(e)	Choline	1
+cl	EX_cl(e)	Chloride	1
+cobalt2	EX_cobalt2(e)	Co2+	1
+cu2	EX_cu2(e)	Cu2+	1
+fe2	EX_fe2(e)	Fe2+	1
+fe3	EX_fe3(e)	Fe3+	1
+fol	EX_fol(e)	Folate	1
+k	EX_k(e)	Potassium	1
+h2o	EX_h2o(e)	Water	10
+h2s	EX_h2s(e)	Hydrogen sulfide	1
+inost	EX_inost(e)	Inositol	1
+mg2	EX_mg2(e)	Magnesium	1
+mn2	EX_mn2(e)	Manganese	1
+ncam	EX_ncam(e)	Nicotinamide	1
+pi	EX_pi(e)	Hydrogenphosphate	10
+pnto_R	EX_pnto_R(e)	Pantothenate	1
+pydxn	EX_pydxn(e)	Pyridoxine	1
+ribflv	EX_ribflv(e)	Riboflavin	1
+so4	EX_so4(e)	Sulfate	1
+thm	EX_thm(e)	Thiamin	1
+zn2	EX_zn2(e)	Zinc	1
+mqn7	EX_mqn7(e)	Menaquinone 7	1
+mqn8	EX_mqn8(e)	Menaquinone 8	1
+pheme	EX_pheme(e)	Protoheme	1
+arabinogal	EX_arabinogal(e)	Larch arabinogalactan	0.0094
+q8	EX_q8(e)	Ubiquinone-8	1
+sheme	EX_sheme(e)	Siroheme	1
